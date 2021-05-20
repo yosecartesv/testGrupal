@@ -1,3 +1,7 @@
 El pollito Pio
 La Vaca Lola
+<<<<<<< HEAD
 el baile de los que sobra
+=======
+CANGURO
+>>>>>>> 78b753afbbec20c65dc8139569f1172ee1d02f02
